@@ -1,8 +1,12 @@
 # Навчальний курс "Підготовка, обробка та ефективне використання даних для наукових досліджень (на базі  мови R)"
 
+
+![](assets/images/arrow.png)
+
 Веб-сайт проекту: https://dataclass.org.ua
 
-![alt text](assets/images/house_of_europe.png)
+![House of Europe](assets/images/house_of_europe.png)
+![Moving forward](assets/images/moving_forward.png)
 
 ---
 
