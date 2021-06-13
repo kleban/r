@@ -1,0 +1,8 @@
+~*.pptx
+*.pdf
+*.RData
+.vs
+
+*checkpoint.ipynb
+.vscode/settings.json
+pptx/
